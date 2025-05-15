@@ -96,7 +96,6 @@
       /* removed font-size and transform */
     }
 
-    /* Device-specific font sizes and transforms */
     body.mobile .hero .overlay h1 {
       font-size: 32px;
       transform: translateY(-40px);
